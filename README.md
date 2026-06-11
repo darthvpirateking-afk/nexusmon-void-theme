@@ -1,43 +1,69 @@
-# NEXUSMON Sovereign Theme
+<div align="center">
 
-Two operator-grade VS Code color themes built from the NEXUSMON sovereign palette (`cosmicTokens.ts`).
+<img src="https://raw.githubusercontent.com/darthvpirateking-afk/nexusmon-void-theme/main/assets/banner.svg" width="100%" alt="NEXUSMON VOID" />
 
-## Variants
+<br/>
 
-| Theme | Vibe | Best For |
-|-------|------|----------|
-| **NEXUSMON Sovereign** | Deep void + violet/cyan sovereignty | Daily development, cockpit work |
-| **NEXUSMON Void** | Ultra-dark matrix terminal aesthetic | Late-night sessions, focused coding |
+**A sovereign VS Code theme for the Shadow Monarch.**
 
-## Palette DNA
+*Jack in to the Digital World with deep void-darkness, cyber-neon Navis, and systemic shadows.*
 
-Both themes are derived from the same organism palette:
+![STATUS](https://img.shields.io/badge/STATUS-AWAKENED-8A2BE2?style=for-the-badge&labelColor=05070D)
+![LINK](https://img.shields.io/badge/LINK-JACK_IN-00F0FF?style=for-the-badge&labelColor=05070D)
+![CLASS](https://img.shields.io/badge/CLASS-MONARCH-FFBB00?style=for-the-badge&labelColor=05070D)
+![SYSTEM](https://img.shields.io/badge/SYSTEM-ONLINE-00FF88?style=for-the-badge&labelColor=05070D)
 
-- **Void Violet** `#8B5CF6` — keywords, structure, focus
-- **Prism Cyan** `#00E0FF` — functions, active elements, neural pulse
-- **Authority Gold** `#FFD700` — numbers, enums, warnings
-- **Hologram Teal** `#00BFA5` — strings, interfaces, success
-- **Magenta Pulse** `#FF6FD8` — flow control, decorators, JSX tags
-- **Erebus Cyan** `#1AFFE4` — regex, escape sequences
-- **Success Bright** `#00FF88` — git additions, terminal green
-- **Error Crimson** `#FF4B4B` — errors, breakpoints, deletions
+</div>
 
-## Install (Local Development)
+---
 
-```bash
-# From the NEXUSMON repo root:
-code --install-extension extensions/nexusmon-theme --force
+## 🔌 [ JACK IN ]
 
-# Or symlink for live reloading during development:
-# Windows (PowerShell as Admin):
-New-Item -ItemType SymbolicLink `
-  -Path "$env:USERPROFILE\.vscode\extensions\nexusmon-sovereign-theme" `
-  -Target "$(Get-Location)\extensions\nexusmon-theme"
+To sync your PET with the System and install the **NEXUSMON Void** theme:
 
-# Then reload VS Code (Ctrl+Shift+P → "Reload Window")
-# Select theme: Ctrl+K Ctrl+T → "NEXUSMON Sovereign" or "NEXUSMON Void"
-```
+1. Open VS Code
+2. Open the Extensions View (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> or <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd>)
+3. Search for **NEXUSMON Void**
+4. Click **Install**
+5. Go to **Settings** > **Color Theme** (<kbd>Ctrl</kbd>+<kbd>K</kbd> <kbd>Ctrl</kbd>+<kbd>T</kbd>) and select **NEXUSMON Void**
 
-## Sovereign Glass Law
+<br/>
 
-Every color in this theme traces back to `cosmicTokens.ts`. No arbitrary hex values. The theme _is_ the organism.
+## 🌌 [ THE SYSTEM HAS CHOSEN YOU ]
+
+*“Arise.”*
+The ultimate crossover between **Solo Leveling’s** dark fantasy system, **Digimon’s** neon-cyber Digital World, and **Megaman Battle Network’s** cyberspace NetBattles.
+
+### Features
+- **Void Obsidian Background** — Deepest black (`#05070D`) for zero glare and infinite depth.
+- **Shadow Monarch Keywords** — Glowing violet control flow that echoes the power of the shadows.
+- **NetBattle Variables** — Crisp, readable, icy-white standard text for immediate target acquisition.
+- **Digital Code Crown Strings** — Vibrant cyber-green syntax highlighting for data streams.
+- **Sovereign Cyan Functions** — Brilliant neon blue that pops like a PET terminal interface.
+
+<br/>
+
+## 💠 [ DIGIVOLVE YOUR WORKSPACE ]
+
+*The core energy signatures of your new cyberspace.*
+
+<div align="center">
+
+| Signature | Hex Code | System Function |
+| :---: | :---: | :--- |
+| ![](https://placehold.co/15x15/05070D/05070D.png) | `#05070D` | **The Void** (Background) |
+| ![](https://placehold.co/15x15/00F0FF/00F0FF.png) | `#00F0FF` | **Navi Energy** (Functions & Types) |
+| ![](https://placehold.co/15x15/8A2BE2/8A2BE2.png) | `#8A2BE2` | **Shadow Aura** (Keywords & Classes) |
+| ![](https://placehold.co/15x15/00FF88/00FF88.png) | `#00FF88` | **Digital World** (Strings & Attributes) |
+| ![](https://placehold.co/15x15/FFBB00/FFBB00.png) | `#FFBB00` | **Monarch Crown** (Numbers & Constants) |
+| ![](https://placehold.co/15x15/FF00FF/FF00FF.png) | `#FF00FF` | **Cyber Pulse** (Control Flow & Tags) |
+
+</div>
+
+<br/>
+
+## ⚔️ [ NETBATTLE READY ]
+
+Built for maximum performance and eye comfort during long marathon coding sessions in the depths of the network. The high-contrast neon over true-black minimizes astigmatism bleeding while maintaining a gorgeous visual hierarchy.
+
+*Execute.*

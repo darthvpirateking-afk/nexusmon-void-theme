@@ -1,9 +1,9 @@
 {
-  "name": "nexusmon-sovereign-theme",
-  "displayName": "NEXUSMON Sovereign Theme",
-  "description": "The sovereign color theme of the NEXUSMON organism — void-dark, cyberpunk, operator-grade.",
-  "version": "1.0.0",
-  "publisher": "nexusmon",
+  "name": "nexusmon-void-theme",
+  "displayName": "NEXUSMON Void",
+  "description": "A sovereign VS Code theme for the Shadow Monarch. Jack in to the Digital World with deep void-darkness, cyber-neon Navis, and systemic shadows.",
+  "version": "1.0.1",
+  "publisher": "darthvpirateking-afk",
   "engines": { "vscode": "^1.80.0" },
   "categories": ["Themes"],
   "contributes": {
@@ -22,9 +22,9 @@
   },
   "icon": "icon.png",
   "galleryBanner": {
-    "color": "#0A0714",
+    "color": "#080B12",
     "theme": "dark"
   },
-  "keywords": ["nexusmon", "dark", "cyberpunk", "sovereign", "void", "organism"],
-  "license": "SEE LICENSE IN LICENSE"
+  "keywords": ["nexusmon", "dark", "solo-leveling", "digimon", "megaman-battle-network", "pet", "arise", "jack-in", "code-crown", "shadows"],
+  "license": "MIT"
 }
