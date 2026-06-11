@@ -17,7 +17,7 @@
 
 ---
 
-## 🔌 [ The mirror is watching ]
+## 🔌 [ SOMETHING LEFT THIS BEHIND???]
 
 sync with the System and install the **NEXUSMON Void** theme: BUT BE WARNED!! you wont be the same.
 
