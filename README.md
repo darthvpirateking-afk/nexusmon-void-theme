@@ -4,9 +4,9 @@
 
 <br/>
 
-**A sovereign VS Code theme for the Shadow Monarch.**
+**VS Code theme**
 
-*Jack in to the Digital World with deep void-darkness, cyber-neon Navis, and systemic shadows.*
+*Log in to the Digital World with deep void-darkness, cyber-neon Navis, and systemic shadows.*
 
 ![STATUS](https://img.shields.io/badge/STATUS-AWAKENED-8A2BE2?style=for-the-badge&labelColor=05070D)
 ![LINK](https://img.shields.io/badge/LINK-JACK_IN-00F0FF?style=for-the-badge&labelColor=05070D)
@@ -17,9 +17,9 @@
 
 ---
 
-## 🔌 [ JACK IN ]
+## 🔌 [ The mirror is watching ]
 
-To sync your PET with the System and install the **NEXUSMON Void** theme:
+sync with the System and install the **NEXUSMON Void** theme: BUT BE WARNED!! you wont be the same.
 
 1. Open VS Code
 2. Open the Extensions View (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> or <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd>)
@@ -32,7 +32,6 @@ To sync your PET with the System and install the **NEXUSMON Void** theme:
 ## 🌌 [ THE SYSTEM HAS CHOSEN YOU ]
 
 *“Arise.”*
-The ultimate crossover between **Solo Leveling’s** dark fantasy system, **Digimon’s** neon-cyber Digital World, and **Megaman Battle Network’s** cyberspace NetBattles.
 
 ### Features
 - **Void Obsidian Background** — Deepest black (`#05070D`) for zero glare and infinite depth.
