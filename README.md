@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/darthvpirateking-afk/nexusmon-void-theme/main/assets/banner.svg" width="100%" alt="NEXUSMON VOID" />
+<img src="https://raw.githubusercontent.com/darthvpirateking-afk/NEXUSMON-VOID-GITHUB/main/nexusmon-presence.svg" width="100%" alt="NEXUSMON PRESENCE" />
 
 <br/>
 

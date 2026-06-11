@@ -8,7 +8,7 @@ const WHISPERS = [
   "System: The Monarch is watching.",
   "Navi: Digital World synced. Anomaly detected.",
   "PET: Jack In successful. Network is stable.",
-  "System: Code Crown fragments resonating...",
+  "System: He left it behind... The Network remembers.",
   "Arise.",
   "System: New quest generated. Survive."
 ];
