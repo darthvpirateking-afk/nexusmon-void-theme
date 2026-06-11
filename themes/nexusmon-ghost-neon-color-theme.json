@@ -1,0 +1,76 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "NEXUSMON Ghost Neon",
+  "type": "dark",
+  "semanticHighlighting": true,
+  "colors": {
+    "editor.background": "#04030A",
+    "editor.foreground": "#E4F8FF",
+    "editor.lineHighlightBackground": "#0B0B16",
+    "editor.selectionBackground": "#00F2FF30",
+    "editor.selectionHighlightBackground": "#00F2FF15",
+    "editorCursor.foreground": "#7CFFFE",
+    "editorWhitespace.foreground": "#1C2C40",
+    "editorIndentGuide.background1": "#112033",
+    "editorIndentGuide.activeBackground1": "#00E4FF60",
+    "editorLineNumber.foreground": "#3C5A78",
+    "editorLineNumber.activeForeground": "#77FFEA",
+    "sideBar.background": "#02030B",
+    "sideBar.foreground": "#A0D9FF",
+    "activityBar.background": "#02030B",
+    "activityBar.foreground": "#80FFDB",
+    "statusBar.background": "#02030B",
+    "statusBar.foreground": "#8DFEFF",
+    "titleBar.activeBackground": "#02030B",
+    "titleBar.activeForeground": "#C0F6FF",
+    "panel.background": "#04030A",
+    "tab.activeBackground": "#070514",
+    "tab.activeForeground": "#8CFFFF",
+    "tab.inactiveBackground": "#02030B",
+    "terminal.background": "#010208",
+    "terminal.foreground": "#7CFF9A",
+    "terminalCursor.foreground": "#A5FFFD",
+    "button.background": "#00F2FF",
+    "button.foreground": "#02030B",
+    "badge.background": "#00FFF2",
+    "badge.foreground": "#02030B"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": { "foreground": "#5A83A7", "fontStyle": "italic" }
+    },
+    {
+      "scope": ["keyword", "keyword.control", "storage.modifier"],
+      "settings": { "foreground": "#33D4FF" }
+    },
+    {
+      "scope": ["keyword.control.flow", "keyword.control.return"],
+      "settings": { "foreground": "#CF6FFF" }
+    },
+    {
+      "scope": ["storage.type"],
+      "settings": { "foreground": "#33D4FF" }
+    },
+    {
+      "scope": ["string", "string.quoted", "string.template"],
+      "settings": { "foreground": "#7EFF90" }
+    },
+    {
+      "scope": ["constant.numeric"],
+      "settings": { "foreground": "#FF8FCA" }
+    },
+    {
+      "scope": ["constant.language"],
+      "settings": { "foreground": "#FFDE6F", "fontStyle": "bold" }
+    },
+    {
+      "scope": ["variable", "identifier"],
+      "settings": { "foreground": "#D4F8FF" }
+    },
+    {
+      "scope": ["comment.line.todo"],
+      "settings": { "foreground": "#FFCC00", "fontStyle": "bold italic" }
+    }
+  ]
+}
