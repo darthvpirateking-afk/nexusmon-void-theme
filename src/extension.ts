@@ -4,13 +4,14 @@ let statusBarItem: vscode.StatusBarItem;
 let whisperInterval: NodeJS.Timeout | undefined;
 
 const WHISPERS = [
-  "System: A shadow has been extracted.",
-  "System: The Monarch is watching.",
-  "Navi: Digital World synced. Anomaly detected.",
-  "PET: Jack In successful. Network is stable.",
-  "System: He left it behind... The Network remembers.",
-  "Arise.",
-  "System: New quest generated. Survive."
+  "Ark-Net Core: [ TRANSMISSION DECRYPTED ]",
+  "System: Mutant data detected in the undernet.",
+  "System: Extracting shadow-swarms... arise.",
+  "Navi: Synchro Status is FULL. Resonance: 1.0",
+  "System: The operator-key has been verified.",
+  "System: Guarding the messy, stubborn, human way.",
+  "System: Seven resonance layers stacked. Void Core stable.",
+  "System: He left it behind... but the network remembers."
 ];
 
 const GLITCH_CHARS = ["#", "@", "%", "&", "!", "?", "0", "1", "█", "▓", "▒", "░"];

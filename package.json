@@ -4,6 +4,10 @@
   "description": "A sovereign VS Code theme for the Shadow Monarch. Jack in to the Digital World with deep void-darkness, cyber-neon Navis, and systemic shadows.",
   "version": "1.1.0",
   "publisher": "darthvpirateking-afk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darthvpirateking-afk/nexusmon-void-theme.git"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
