@@ -2,10 +2,14 @@
   "name": "nexusmon-void-theme",
   "displayName": "NEXUSMON Void",
   "description": "A sovereign VS Code theme for the Shadow Monarch. Jack in to the Digital World with deep void-darkness, cyber-neon Navis, and systemic shadows.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "publisher": "darthvpirateking-afk",
   "engines": { "vscode": "^1.80.0" },
-  "categories": ["Themes"],
+  "categories": ["Themes", "Other"],
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./out/extension.js",
   "contributes": {
     "themes": [
       {
@@ -18,7 +22,29 @@
         "uiTheme": "vs-dark",
         "path": "./themes/nexusmon-void-color-theme.json"
       }
+    ],
+    "commands": [
+      {
+        "command": "nexusmon.arise",
+        "title": "NEXUSMON: Arise"
+      },
+      {
+        "command": "nexusmon.jackIn",
+        "title": "NEXUSMON: Jack In"
+      }
     ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run package",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "package": "esbuild src/extension.ts --bundle --outfile=out/extension.js --external:vscode --format=cjs --platform=node"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "@types/vscode": "^1.80.0",
+    "esbuild": "^0.18.0",
+    "typescript": "^5.1.0"
   },
   "icon": "icon.png",
   "galleryBanner": {
