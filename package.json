@@ -2,7 +2,7 @@
   "name": "nexusmon-void-theme",
   "displayName": "NEXUSMON Void",
   "description": "A sovereign VS Code theme for the Shadow Monarch. Jack in to the Digital World with deep void-darkness, cyber-neon Navis, and systemic shadows.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "darthvpirateking-afk",
   "repository": {
     "type": "git",
@@ -30,6 +30,11 @@
         "label": "NEXUSMON Void",
         "uiTheme": "vs-dark",
         "path": "./themes/nexusmon-void-color-theme.json"
+      },
+      {
+        "label": "NEXUSMON Ghost Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nexusmon-ghost-neon-color-theme.json"
       }
     ],
     "commands": [
